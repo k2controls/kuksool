@@ -1,3 +1,13 @@
+---
+title: WKSA Leadership Transition and the Emergence of Mirae Kuk Sool
+layout: default
+date: 2026-01-31
+categories: [history, leadership]
+description: >
+  This page documents the leadership transition within the World Kuk Sool Association (WKSA),
+  the formation of United Mirae Kuk Sool (UMKS), and the significant role of Sung Jin Suh.
+---
+
 # WKSA Leadership Transition and the Emergence of Mirae Kuk Sool
 
 ## 1. Context and Background
@@ -59,12 +69,14 @@ For practitioners and historians alike, this is a pivotal moment worth close stu
 
 ## Hangul & Vocabulary
 
-- **국술 (Kuk Sool)** – National Martial Arts
-- **미래 (Mirae)** – Future
-- **미래 국술 (Mirae Kuk Sool)** – Future Kuk Sool
-- **대사부 (Dae Sa Bu)** – Grandmaster
-- **십단 (Sip Dan)** – 10th Dahn (rank)
-- **수련생 (Su Ryeon Saeng)** – Student or practitioner
+| Korean | Romanization | English |
+|--------|--------------|---------|
+| 국술 | Kuk Sool | National Martial Arts |
+| 미래 | Mirae | Future |
+| 미래 국술 | Mirae Kuk Sool | Future Kuk Sool |
+| 대사부 | Dae Sa Bu | Grandmaster |
+| 십단 | Sip Dan | 10th Dahn (rank) |
+| 수련생 | Su Ryeon Saeng | Student or practitioner |
 
 ---
 
