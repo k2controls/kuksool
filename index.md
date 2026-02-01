@@ -1,6 +1,7 @@
 ---
 title: Kuk Sool Project
 layout: default
+theme: jekyll-theme-leap-day
 ---
 
 # Welcome to the Kuk Sool Project
