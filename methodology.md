@@ -91,4 +91,19 @@ These limitations are not hidden—they are part of the record.
 
 ---
 
+## Use of AI Tools
+
+This repository makes use of AI-assisted drafting tools to support
+organization, formatting, language refinement, and structural clarity.
+
+All content is reviewed, edited, and curated by the author.
+
+AI tools are used as writing assistants — not as historical authorities.
+Facts, lineage references, and interpretations are verified against
+primary or secondary sources before inclusion.
+
+Responsibility for accuracy, tone, and intent remains entirely human.
+
+---
+
 _Draft research archive · Not an official organizational publication · Subject to review_

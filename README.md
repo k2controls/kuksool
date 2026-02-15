@@ -73,6 +73,9 @@ Content in this repository is being reviewed in stages:
 Feedback, corrections, and additional source material are welcomed during
 the review phase.
 
+AI-assisted drafting tools are used for structural and language support.
+All content is human-reviewed and curated.
+
 ---
 
 ## Research Transparency
