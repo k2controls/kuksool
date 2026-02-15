@@ -75,6 +75,18 @@ the review phase.
 
 ---
 
+## Research Transparency
+
+This project maintains explicit documentation of:
+
+- [Sources](./sources.md)
+- [Methodology](./methodology.md)
+
+These pages outline the materials consulted, how conflicting accounts are handled,
+and the principles guiding documentation and interpretation.
+
+---
+
 ## Author
 
 This research is being compiled by a long-time Kuk Sool practitioner as part
