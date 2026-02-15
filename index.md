@@ -1,8 +1,12 @@
 ---
 title: Kuk Sool Research
 layout: default
-theme: jekyll-theme-leap-day
 ---
+
+# Kuk Sool Research Repository
+
+> Draft · Private Research Project · In Review
+
 
 # Kuk Sool Research Repository
 

@@ -1,10 +1,15 @@
 ---
 title: Sources
 layout: default
+---
+
+<!-- ---
+title: Sources
+layout: default
 nav_order: 99
 description: >
   Primary and secondary sources used in the Kuk Sool Research Repository.
----
+--- -->
 
 # Sources
 

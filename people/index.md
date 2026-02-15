@@ -1,5 +1,5 @@
 ---
-title: People of Kuk Sool
+title: People
 layout: default
 ---
 

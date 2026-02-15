@@ -1,11 +1,16 @@
 ---
 title: Organizations
 layout: default
+---
+
+<!-- ---
+title: Organizations
+layout: default
 nav_order: 3
 description: >
   Organizations and associations related to Kuk Sool, including historical
   and contemporary lineages.
----
+--- -->
 
 # Kuk Sool–Related Organizations
 

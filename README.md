@@ -1,3 +1,7 @@
+---
+title: Kuk Sool Research Repository
+---
+
 # Kuk Sool Research Repository
 
 > **Status:** Private research project · Draft content · Shared for review only  
