@@ -1,34 +1,34 @@
 # License
 
 This work is licensed under the  
-Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 You are free to:
 
-- Share — copy and redistribute the material in any medium or format  
-- Adapt — remix, transform, and build upon the material  
+- Share — copy and redistribute the material in any medium or format
 
 Under the following terms:
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, 
-  and indicate if changes were made.
+- **Attribution** — You must give appropriate credit and provide a link to the license.
 - **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — You may not distribute modified versions of this material.
 
 ---
 
 ## Intent
 
-This repository is intended as a community research resource for students,
-instructors, and historians of Kuk Sool and related Korean martial arts.
+This repository is currently a private research archive under review.
 
-It is not intended for commercial duplication, content scraping,
-or reproduction without acknowledgment.
+It is being developed as a historical and terminology reference
+for internal study and instructor review.
 
-The spirit of this license reflects the traditions of martial arts:
-knowledge is shared responsibly, lineage is acknowledged,
-and contributions are respected.
+The work may evolve in structure and tone over time.
+
+This license reflects a stewardship posture:
+the material may be shared respectfully,
+but not altered or commercially reproduced.
 
 ---
 
 Full license text:
-https://creativecommons.org/licenses/by-nc/4.0/
+https://creativecommons.org/licenses/by-nc-nd/4.0/

@@ -97,4 +97,4 @@ _Draft research archive · Not an official organizational publication · Subject
 
 ---
 
-Content licensed under CC BY-NC 4.0 · Attribution required · Non-commercial use only
+Content licensed under CC BY-NC-ND 4.0 · Draft research archive · Subject to review
