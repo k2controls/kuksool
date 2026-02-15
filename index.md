@@ -8,10 +8,6 @@ layout: default
 > Draft · Private Research Project · In Review
 
 
-# Kuk Sool Research Repository
-
-> Draft · Private Research Project · In Review
-
 ---
 
 ## Purpose
