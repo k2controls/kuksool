@@ -83,3 +83,8 @@ with historical and philosophical inquiry.
 
 The work is offered in a spirit of respect—for teachers past and present,
 and for students yet to come.
+
+---
+
+Content licensed under CC BY-NC 4.0 · Attribution required · Non-commercial use only
+

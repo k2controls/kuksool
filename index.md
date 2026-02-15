@@ -90,3 +90,7 @@ Where accounts differ, those differences are documented rather than erased.
 - [Glossary](./glossary/)
 - [Sources](./sources/)
 - [Methodology](./methodology/)
+
+---
+
+Content licensed under CC BY-NC 4.0 · Attribution required · Non-commercial use only
