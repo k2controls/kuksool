@@ -82,3 +82,7 @@ Where sources conflict:
 - [ ] Add ISBNs and publication dates where available
 - [ ] Add scanned references or page citations
 - [ ] Add interview dates and permissions (where applicable)
+
+---
+
+_Draft research archive · Not an official organizational publication · Subject to review_

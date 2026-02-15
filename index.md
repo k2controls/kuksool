@@ -93,4 +93,8 @@ Where accounts differ, those differences are documented rather than erased.
 
 ---
 
+_Draft research archive · Not an official organizational publication · Subject to review_
+
+---
+
 Content licensed under CC BY-NC 4.0 · Attribution required · Non-commercial use only

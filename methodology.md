@@ -88,3 +88,7 @@ These limitations are not hidden—they are part of the record.
 - [ ] Add explicit citation format guidelines
 - [ ] Add versioning and change-log approach
 - [ ] Add contributor guidelines (future)
+
+---
+
+_Draft research archive · Not an official organizational publication · Subject to review_
