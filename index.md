@@ -1,6 +1,7 @@
 ---
 title: Kuk Sool Research
 layout: default
+theme: jekyll-theme-leap-day
 ---
 
 # Kuk Sool Research Repository
