@@ -5,7 +5,11 @@ layout: default
 
 [← Home](../)
 
-# People of Kuk Sool
+# People
+
+> Masters, instructors, and lineage relationships relevant to this research archive.
+
+---
 
 This section documents influential figures in the evolution of Kuk Sool — founders, masters, reformers, and key lineage holders.
 

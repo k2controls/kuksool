@@ -5,7 +5,9 @@ layout: default
 
 [← Home](../)
 
-# Kuk Sool–Glossary
+# Glossary
 
+> Korean terminology with Hangul, translation, and pronunciation references.
 
-### under construction
+---
+

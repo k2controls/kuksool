@@ -3,9 +3,13 @@ title: Sources
 layout: default
 ---
 
-[← Home](../)
+[← Home](./)
 
 # Sources
+
+> Primary and secondary materials referenced in this archive.
+
+---
 
 This page documents the **primary, secondary, and oral sources** used in the
 Kuk Sool Research Repository.

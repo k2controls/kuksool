@@ -1,7 +1,6 @@
 ---
-title: About Me
+title: About
 layout: default
-categories: [about, people]
 ---
 
 [← Home](../)

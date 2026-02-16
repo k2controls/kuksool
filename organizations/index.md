@@ -5,7 +5,11 @@ layout: default
 
 [← Home](../)
 
-# Kuk Sool–Related Organizations
+# Organizations
+
+> Organizational structures and leadership bodies connected to Kuk Sool traditions.
+
+---
 
 This section documents the **organizations, associations, and lineages**
 connected to Kuk Sool and related Korean martial arts.  

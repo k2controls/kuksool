@@ -5,7 +5,9 @@ layout: default
 
 [← Home](../)
 
-# Kuk Sool–History
+# History
 
+> Historical foundations and modern leadership developments within Kuk Sool and related traditions.
 
-### under construction
+---
+

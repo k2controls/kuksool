@@ -3,9 +3,13 @@ title: Methodology
 layout: default
 ---
 
-[← Home](../)
+[← Home](./)
 
 # Methodology
+
+> Research approach, citation standards, and AI-assisted drafting transparency.
+
+---
 
 This repository follows a **practitioner-historian approach** to research.
 
