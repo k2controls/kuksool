@@ -3,6 +3,8 @@ title: People
 layout: default
 ---
 
+[← Home](../)
+
 # People of Kuk Sool
 
 This section documents influential figures in the evolution of Kuk Sool — founders, masters, reformers, and key lineage holders.

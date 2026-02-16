@@ -3,13 +3,7 @@ title: Methodology
 layout: default
 ---
 
-<!-- ---
-title: Methodology
-layout: default
-nav_order: 98
-description: >
-  Research approach and principles used in the Kuk Sool Research Repository.
---- -->
+[← Home](../)
 
 # Methodology
 

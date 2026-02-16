@@ -1,14 +1,12 @@
 ---
 title: About Me
 layout: default
-nav_order: 5
-description: >
-  Martial arts background, Kuk Sool training history, and current alignment
-  of Keith Kelly.
 categories: [about, people]
 ---
 
-# About Keith Kelly
+[← Home](../)
+
+# About Keith E Kelly
 
 This site accompanies my personal study and documentation of **Kuk Sool**, its
 terminology, history, lineage, and philosophy. It reflects both my **martial

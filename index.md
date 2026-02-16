@@ -7,6 +7,23 @@ layout: default
 
 > Draft · Private Research Project · In Review
 
+---
+
+## Explore the Archive
+
+- **Start Here**
+  - [About](./about/)
+
+- **Core Sections**
+  - [History](./history/)
+  - [People](./people/)
+  - [Organizations](./organizations/)
+  - [Glossary](./glossary/)
+
+- **Research Integrity**
+  - [Sources](./sources/)
+  - [Methodology](./methodology/)
+  - [License](./license/)
 
 ---
 
